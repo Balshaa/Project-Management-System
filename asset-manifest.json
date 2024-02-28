@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Balshaa/Project-Management-System/static/css/main.a2fe6300.css",
-    "main.js": "/Balshaa/Project-Management-System/static/js/main.c038b5f9.js",
+    "main.js": "/Balshaa/Project-Management-System/static/js/main.62d38cd4.js",
     "static/media/profileimg3.png": "/Balshaa/Project-Management-System/static/media/profileimg3.9cfef914024a33b58772.png",
     "index.html": "/Balshaa/Project-Management-System/index.html",
     "main.a2fe6300.css.map": "/Balshaa/Project-Management-System/static/css/main.a2fe6300.css.map",
-    "main.c038b5f9.js.map": "/Balshaa/Project-Management-System/static/js/main.c038b5f9.js.map"
+    "main.62d38cd4.js.map": "/Balshaa/Project-Management-System/static/js/main.62d38cd4.js.map"
   },
   "entrypoints": [
     "static/css/main.a2fe6300.css",
-    "static/js/main.c038b5f9.js"
+    "static/js/main.62d38cd4.js"
   ]
 }
